@@ -1,0 +1,7 @@
+E:\C#\Celcjusz na faren\Celcjusz na faren\obj\Debug\Celcjusz na faren.csprojAssemblyReference.cache
+E:\C#\Celcjusz na faren\Celcjusz na faren\obj\Debug\Celcjusz na faren.csproj.CoreCompileInputs.cache
+E:\C#\Celcjusz na faren\Celcjusz na faren\bin\Debug\Celcjusz na faren.exe.config
+E:\C#\Celcjusz na faren\Celcjusz na faren\bin\Debug\Celcjusz na faren.exe
+E:\C#\Celcjusz na faren\Celcjusz na faren\bin\Debug\Celcjusz na faren.pdb
+E:\C#\Celcjusz na faren\Celcjusz na faren\obj\Debug\Celcjusz na faren.exe
+E:\C#\Celcjusz na faren\Celcjusz na faren\obj\Debug\Celcjusz na faren.pdb

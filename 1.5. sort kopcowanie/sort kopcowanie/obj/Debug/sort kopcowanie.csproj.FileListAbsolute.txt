@@ -1,0 +1,14 @@
+E:\C#\sort kopcowanie\sort kopcowanie\bin\Debug\sort kopcowanie.exe.config
+E:\C#\sort kopcowanie\sort kopcowanie\bin\Debug\sort kopcowanie.exe
+E:\C#\sort kopcowanie\sort kopcowanie\bin\Debug\sort kopcowanie.pdb
+E:\C#\sort kopcowanie\sort kopcowanie\obj\Debug\sort kopcowanie.csprojAssemblyReference.cache
+E:\C#\sort kopcowanie\sort kopcowanie\obj\Debug\sort kopcowanie.csproj.CoreCompileInputs.cache
+E:\C#\sort kopcowanie\sort kopcowanie\obj\Debug\sort kopcowanie.exe
+E:\C#\sort kopcowanie\sort kopcowanie\obj\Debug\sort kopcowanie.pdb
+E:\Dropbox\Nowy folder\1.Sortowania\sort kopcowanie\sort kopcowanie\bin\Debug\sort kopcowanie.exe.config
+E:\Dropbox\Nowy folder\1.Sortowania\sort kopcowanie\sort kopcowanie\bin\Debug\sort kopcowanie.exe
+E:\Dropbox\Nowy folder\1.Sortowania\sort kopcowanie\sort kopcowanie\bin\Debug\sort kopcowanie.pdb
+E:\Dropbox\Nowy folder\1.Sortowania\sort kopcowanie\sort kopcowanie\obj\Debug\sort kopcowanie.csprojAssemblyReference.cache
+E:\Dropbox\Nowy folder\1.Sortowania\sort kopcowanie\sort kopcowanie\obj\Debug\sort kopcowanie.csproj.CoreCompileInputs.cache
+E:\Dropbox\Nowy folder\1.Sortowania\sort kopcowanie\sort kopcowanie\obj\Debug\sort kopcowanie.exe
+E:\Dropbox\Nowy folder\1.Sortowania\sort kopcowanie\sort kopcowanie\obj\Debug\sort kopcowanie.pdb

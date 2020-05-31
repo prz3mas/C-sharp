@@ -1,0 +1,14 @@
+E:\C#\sort scalanie\sort scalanie\bin\Debug\sort scalanie.exe.config
+E:\C#\sort scalanie\sort scalanie\bin\Debug\sort scalanie.exe
+E:\C#\sort scalanie\sort scalanie\bin\Debug\sort scalanie.pdb
+E:\C#\sort scalanie\sort scalanie\obj\Debug\sort scalanie.csprojAssemblyReference.cache
+E:\C#\sort scalanie\sort scalanie\obj\Debug\sort scalanie.csproj.CoreCompileInputs.cache
+E:\C#\sort scalanie\sort scalanie\obj\Debug\sort scalanie.exe
+E:\C#\sort scalanie\sort scalanie\obj\Debug\sort scalanie.pdb
+E:\Dropbox\Nowy folder\1.Sortowania\sort scalanie\sort scalanie\bin\Debug\sort scalanie.exe.config
+E:\Dropbox\Nowy folder\1.Sortowania\sort scalanie\sort scalanie\bin\Debug\sort scalanie.exe
+E:\Dropbox\Nowy folder\1.Sortowania\sort scalanie\sort scalanie\bin\Debug\sort scalanie.pdb
+E:\Dropbox\Nowy folder\1.Sortowania\sort scalanie\sort scalanie\obj\Debug\sort scalanie.csprojAssemblyReference.cache
+E:\Dropbox\Nowy folder\1.Sortowania\sort scalanie\sort scalanie\obj\Debug\sort scalanie.csproj.CoreCompileInputs.cache
+E:\Dropbox\Nowy folder\1.Sortowania\sort scalanie\sort scalanie\obj\Debug\sort scalanie.exe
+E:\Dropbox\Nowy folder\1.Sortowania\sort scalanie\sort scalanie\obj\Debug\sort scalanie.pdb

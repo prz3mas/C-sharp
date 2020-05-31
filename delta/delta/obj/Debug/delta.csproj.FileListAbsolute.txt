@@ -1,0 +1,6 @@
+E:\C#\delta\delta\bin\Debug\delta.exe.config
+E:\C#\delta\delta\bin\Debug\delta.exe
+E:\C#\delta\delta\bin\Debug\delta.pdb
+E:\C#\delta\delta\obj\Debug\delta.csproj.CoreCompileInputs.cache
+E:\C#\delta\delta\obj\Debug\delta.exe
+E:\C#\delta\delta\obj\Debug\delta.pdb

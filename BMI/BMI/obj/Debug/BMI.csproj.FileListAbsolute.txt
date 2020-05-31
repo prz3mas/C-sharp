@@ -1,0 +1,7 @@
+E:\C#\BMI\BMI\obj\Debug\BMI.csprojAssemblyReference.cache
+E:\C#\BMI\BMI\obj\Debug\BMI.csproj.CoreCompileInputs.cache
+E:\C#\BMI\BMI\bin\Debug\BMI.exe.config
+E:\C#\BMI\BMI\bin\Debug\BMI.exe
+E:\C#\BMI\BMI\bin\Debug\BMI.pdb
+E:\C#\BMI\BMI\obj\Debug\BMI.exe
+E:\C#\BMI\BMI\obj\Debug\BMI.pdb

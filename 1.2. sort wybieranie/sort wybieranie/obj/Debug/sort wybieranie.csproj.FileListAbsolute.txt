@@ -1,0 +1,14 @@
+E:\C#\sort wybieranie\sort wybieranie\bin\Debug\sort wybieranie.exe.config
+E:\C#\sort wybieranie\sort wybieranie\bin\Debug\sort wybieranie.exe
+E:\C#\sort wybieranie\sort wybieranie\bin\Debug\sort wybieranie.pdb
+E:\C#\sort wybieranie\sort wybieranie\obj\Debug\sort wybieranie.csprojAssemblyReference.cache
+E:\C#\sort wybieranie\sort wybieranie\obj\Debug\sort wybieranie.csproj.CoreCompileInputs.cache
+E:\C#\sort wybieranie\sort wybieranie\obj\Debug\sort wybieranie.exe
+E:\C#\sort wybieranie\sort wybieranie\obj\Debug\sort wybieranie.pdb
+E:\Dropbox\Nowy folder\1.Sortowania\sort wybieranie\sort wybieranie\bin\Debug\sort wybieranie.exe.config
+E:\Dropbox\Nowy folder\1.Sortowania\sort wybieranie\sort wybieranie\bin\Debug\sort wybieranie.exe
+E:\Dropbox\Nowy folder\1.Sortowania\sort wybieranie\sort wybieranie\bin\Debug\sort wybieranie.pdb
+E:\Dropbox\Nowy folder\1.Sortowania\sort wybieranie\sort wybieranie\obj\Debug\sort wybieranie.csprojAssemblyReference.cache
+E:\Dropbox\Nowy folder\1.Sortowania\sort wybieranie\sort wybieranie\obj\Debug\sort wybieranie.csproj.CoreCompileInputs.cache
+E:\Dropbox\Nowy folder\1.Sortowania\sort wybieranie\sort wybieranie\obj\Debug\sort wybieranie.exe
+E:\Dropbox\Nowy folder\1.Sortowania\sort wybieranie\sort wybieranie\obj\Debug\sort wybieranie.pdb

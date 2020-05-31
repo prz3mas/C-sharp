@@ -1,0 +1,14 @@
+E:\C#\sort wstawianie\sort wstawianie\obj\Debug\sort wstawianie.csprojAssemblyReference.cache
+E:\C#\sort wstawianie\sort wstawianie\obj\Debug\sort wstawianie.csproj.CoreCompileInputs.cache
+E:\C#\sort wstawianie\sort wstawianie\bin\Debug\sort wstawianie.exe.config
+E:\C#\sort wstawianie\sort wstawianie\bin\Debug\sort wstawianie.exe
+E:\C#\sort wstawianie\sort wstawianie\bin\Debug\sort wstawianie.pdb
+E:\C#\sort wstawianie\sort wstawianie\obj\Debug\sort wstawianie.exe
+E:\C#\sort wstawianie\sort wstawianie\obj\Debug\sort wstawianie.pdb
+E:\Dropbox\Nowy folder\1.Sortowania\sort wstawianie\sort wstawianie\bin\Debug\sort wstawianie.exe.config
+E:\Dropbox\Nowy folder\1.Sortowania\sort wstawianie\sort wstawianie\bin\Debug\sort wstawianie.exe
+E:\Dropbox\Nowy folder\1.Sortowania\sort wstawianie\sort wstawianie\bin\Debug\sort wstawianie.pdb
+E:\Dropbox\Nowy folder\1.Sortowania\sort wstawianie\sort wstawianie\obj\Debug\sort wstawianie.csprojAssemblyReference.cache
+E:\Dropbox\Nowy folder\1.Sortowania\sort wstawianie\sort wstawianie\obj\Debug\sort wstawianie.csproj.CoreCompileInputs.cache
+E:\Dropbox\Nowy folder\1.Sortowania\sort wstawianie\sort wstawianie\obj\Debug\sort wstawianie.exe
+E:\Dropbox\Nowy folder\1.Sortowania\sort wstawianie\sort wstawianie\obj\Debug\sort wstawianie.pdb

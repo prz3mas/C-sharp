@@ -1,0 +1,7 @@
+E:\C#\sort bąbelkowe\sort bąbelkowe\bin\Debug\sort bąbelkowe.exe.config
+E:\C#\sort bąbelkowe\sort bąbelkowe\bin\Debug\sort bąbelkowe.exe
+E:\C#\sort bąbelkowe\sort bąbelkowe\bin\Debug\sort bąbelkowe.pdb
+E:\C#\sort bąbelkowe\sort bąbelkowe\obj\Debug\sort bąbelkowe.csprojAssemblyReference.cache
+E:\C#\sort bąbelkowe\sort bąbelkowe\obj\Debug\sort bąbelkowe.csproj.CoreCompileInputs.cache
+E:\C#\sort bąbelkowe\sort bąbelkowe\obj\Debug\sort bąbelkowe.exe
+E:\C#\sort bąbelkowe\sort bąbelkowe\obj\Debug\sort bąbelkowe.pdb

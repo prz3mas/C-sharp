@@ -1,0 +1,14 @@
+E:\C#\sort szybki\sort szybki\bin\Debug\sort szybki.exe.config
+E:\C#\sort szybki\sort szybki\bin\Debug\sort szybki.exe
+E:\C#\sort szybki\sort szybki\bin\Debug\sort szybki.pdb
+E:\C#\sort szybki\sort szybki\obj\Debug\sort szybki.csprojAssemblyReference.cache
+E:\C#\sort szybki\sort szybki\obj\Debug\sort szybki.csproj.CoreCompileInputs.cache
+E:\C#\sort szybki\sort szybki\obj\Debug\sort szybki.exe
+E:\C#\sort szybki\sort szybki\obj\Debug\sort szybki.pdb
+E:\Dropbox\Nowy folder\1.Sortowania\sort szybki\sort szybki\bin\Debug\sort szybki.exe.config
+E:\Dropbox\Nowy folder\1.Sortowania\sort szybki\sort szybki\bin\Debug\sort szybki.exe
+E:\Dropbox\Nowy folder\1.Sortowania\sort szybki\sort szybki\bin\Debug\sort szybki.pdb
+E:\Dropbox\Nowy folder\1.Sortowania\sort szybki\sort szybki\obj\Debug\sort szybki.csprojAssemblyReference.cache
+E:\Dropbox\Nowy folder\1.Sortowania\sort szybki\sort szybki\obj\Debug\sort szybki.csproj.CoreCompileInputs.cache
+E:\Dropbox\Nowy folder\1.Sortowania\sort szybki\sort szybki\obj\Debug\sort szybki.exe
+E:\Dropbox\Nowy folder\1.Sortowania\sort szybki\sort szybki\obj\Debug\sort szybki.pdb

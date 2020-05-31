@@ -1,0 +1,7 @@
+E:\C#\sort zlicz\sort zlicz\bin\Debug\sort zlicz.exe.config
+E:\C#\sort zlicz\sort zlicz\bin\Debug\sort zlicz.exe
+E:\C#\sort zlicz\sort zlicz\bin\Debug\sort zlicz.pdb
+E:\C#\sort zlicz\sort zlicz\obj\Debug\sort zlicz.csprojAssemblyReference.cache
+E:\C#\sort zlicz\sort zlicz\obj\Debug\sort zlicz.csproj.CoreCompileInputs.cache
+E:\C#\sort zlicz\sort zlicz\obj\Debug\sort zlicz.exe
+E:\C#\sort zlicz\sort zlicz\obj\Debug\sort zlicz.pdb
